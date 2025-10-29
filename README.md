@@ -17,6 +17,8 @@ A simple web application that displays a collection of movies in an attractive c
 
 ## Deployment
 
+https://medtouatii.github.io/final-project/
+
 This is a static web app, so it can be deployed to any static hosting service:
 
 - **GitHub Pages**: Upload the files to a GitHub repository and enable Pages in the repository settings.
@@ -36,3 +38,4 @@ This is a static web app, so it can be deployed to any static hosting service:
 - `script.js`: JavaScript for dynamic content generation
 - `README.md`: This file
 - `PROJECT_SPEC.md`: Project specification
+
